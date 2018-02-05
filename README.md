@@ -45,6 +45,6 @@ Reference
 
 [1] N. Halko, P.-G. Martinsson and J. A. Tropp, "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions," SIAM Review, 53 (2011), no. 2, pp. 217{288.
 
-[2] P.-G. Martinsson and S. Voronin, "A randomized blocked algorithm for effiiently computing rank-revealing factorizations of matrices," SIAM J. Sci. Comput., 38(2016), no. 5, pp. S485 - S507.
+[2] P.-G. Martinsson and S. Voronin, "A randomized blocked algorithm for efficiently computing rank-revealing factorizations of matrices," SIAM J. Sci. Comput., 38(2016), no. 5, pp. S485 - S507.
 
 [3] Wenjian Yu, Yu Gu, and Yaohang Li, "Efficient randomized algorithms for the fixed-precision low-rank matrix approximation," submitted to SIMAX.
