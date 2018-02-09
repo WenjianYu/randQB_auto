@@ -65,6 +65,10 @@ readImage.m -- Convert an image to a matrix.
 loadAminerMatrix.m -- Load the Aminer matrix.
 
 
+For any comments, please contact Wenjian Yu (yu-wj@tsinghua.edu.cn). Thanks!
+
+(Sorry, due to its large size Aminer100K_matrix.txt can't be uploaded here. If need it, please contact me)
+
 Reference
 
 [1] N. Halko, P.-G. Martinsson and J. A. Tropp, "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions," SIAM Review, 53 (2011), no. 2, pp. 217{288.
