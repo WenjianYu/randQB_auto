@@ -67,7 +67,6 @@ loadAminerMatrix.m -- Load the Aminer matrix.
 
 For any comments, please contact Wenjian Yu (yu-wj@tsinghua.edu.cn). Thanks!
 
-(Sorry, due to its large size Aminer100K_matrix.txt can't be uploaded here. If need it, please contact me)
 
 Reference
 
