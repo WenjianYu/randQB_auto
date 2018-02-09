@@ -44,7 +44,7 @@ gen_rand_mat_exp_decay.m -- generate a matrix with singular value decay exponent
 
 image1.jpg -- A scenic image
 
-Aminer100K_matrix.txt -- A keyword-person matrix from "AMiner" (in COO format)
+Aminer100K_matrix.zip -- A keyword-person matrix (in COO format) from "AMiner" (Please unzip it) 
 
 Aminer100K_s.mat -- Accurate singular values of Aminer100K matrix (obtained with SVD)
 
