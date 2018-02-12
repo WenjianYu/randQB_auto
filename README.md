@@ -1,5 +1,5 @@
 # randQB_auto
-randomized QB factorization for fixed-precision low-rank matrix approximation.
+Randomized QB factorization for fixed-precision low-rank matrix approximation.
 
 This package includes Matlab codes for the randQB_EI and randQB_FP algorithms.
 They are efficient randomized algorithms for the fixed-precision low-rank matrix 
@@ -65,7 +65,7 @@ readImage.m -- Convert an image to a matrix.
 loadAminerMatrix.m -- Load the Aminer matrix.
 
 
-For any comments, please contact Wenjian Yu (yu-wj@tsinghua.edu.cn). Thanks!
+For comment/question/suggestion, please send email to yu-wj at tsinghua dot edu dot cn (Dr. Wenjian Yu).
 
 
 Reference
