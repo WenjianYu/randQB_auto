@@ -1,4 +1,7 @@
 # randQB_auto
+
+The source codes are transfered to THU-numbda (https://github.com/THU-numbda/randQB_auto).
+
 Randomized QB factorization for fixed-precision low-rank matrix approximation.
 
 This package includes Matlab codes for the randQB_EI and randQB_FP algorithms.
