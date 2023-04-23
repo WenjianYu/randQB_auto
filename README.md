@@ -74,4 +74,4 @@ Reference
 
 [2] P.-G. Martinsson and S. Voronin, "A randomized blocked algorithm for efficiently computing rank-revealing factorizations of matrices," SIAM J. Sci. Comput., 38(2016), no. 5, pp. S485 - S507.
 
-[3] Wenjian Yu, Yu Gu, and Yaohang Li, "Efficient randomized algorithms for the fixed-precision low-rank matrix approximation," submitted to SIMAX.
+[3] Wenjian Yu, Yu Gu and Yaohang Li, "Efficient randomized algorithms for the fixed-precision low-rank matrix approximation," SIAM Journal on Matrix Analysis and Applications, 39(3): 1339-1359, 2018.
